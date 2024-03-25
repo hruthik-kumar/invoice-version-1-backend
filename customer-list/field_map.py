@@ -1,0 +1,1 @@
+CUSTOMER_INFO = ['companyName', 'companyAddress', 'companyGst']
